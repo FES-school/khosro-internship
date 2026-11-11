@@ -7,6 +7,7 @@ const ExploreItems = () => {
   return (
     <>
       <div>
+        <h2>this is the test</h2>
         <select id="filter-items" defaultValue="">
           <option value="">Default</option>
           <option value="price_low_to_high">Price, Low to High</option>
